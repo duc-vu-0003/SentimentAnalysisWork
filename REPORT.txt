@@ -57,7 +57,32 @@ Number of adjective features: 0
 Number of bigram features: 14286
 Number of top unigram features: 0
 
-
 Fold 9:
+Number of unigrams features:14379 
+Number of unigram pos features: 48439
+Number of adjective features: 0
+Number of bigram features: 14379
+Number of top unigram features: 0
 
 Fold 10:
+Number of unigrams features:14335 
+Number of unigram pos features: 48228
+Number of adjective features: 0
+Number of bigram features: 14335
+Number of top unigram features: 0
+
+----------------------
+Feature sets:
+- Unigrams: Unigram words of frequency greater than 5.
+- Bigrams: Bigram words of top N frequency, where N is the number of unigrams of frequency greater than 5.
+- Part of speech tags
+- Unigrams with part of speech tags
+- Adjectives
+- Top unigrams Unigram words of top M frequency, where M is the number of adjectives of frequency greater than 4.
+
+-----------------------
+Classification model:
+Support Vector Machine
+
+We use tool to work with SVM
+SVMlight (http://svmlight.joachims.org/)
