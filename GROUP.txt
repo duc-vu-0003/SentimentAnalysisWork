@@ -3,13 +3,16 @@ GROUP 6
 ============
 
 1.Vũ Anh Đức
-    - Research about NLTK and Gensim.
-    - Implement demo application for this assignment.
+    - Research about Sentiment Analysis, features.
+    - Implement tool for this assignment.
     - Improve code.
     - Do README.txt document
 
-2.Vũ Anh Trường
-    - Research about NLTK and Gensim.
-    - Implement show topics as WordCloud function
+2.Nguyễn Vinh Nam
+    - Research about Sentiment Analysis, features.
     - Improve code.
+    
+3.Olaoluwa Olatunbosun
+    - Research about Sentiment Analysis, features.
+    - Research about SVM and tools
     - Do other documents
