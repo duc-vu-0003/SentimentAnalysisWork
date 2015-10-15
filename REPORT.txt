@@ -5,8 +5,8 @@ Number of adjective features: 0
 Number of bigram features: 14358
 Number of top unigram features: 0
 
-Accuracy on test set: 75.00% (150 correct, 50 incorrect, 200 total)
-Precision/recall on test set: 75.00%/75.00%
+Accuracy on test set: 85.50% (171 correct, 29 incorrect, 200 total)
+Precision/recall on test set: 88.17%/82.00%
 
 Fold 2:
 Number of unigrams features:14385 
@@ -15,12 +15,18 @@ Number of adjective features: 0
 Number of bigram features: 14385
 Number of top unigram features: 0
 
+Accuracy on test set: 86.50% (173 correct, 27 incorrect, 200 total)
+Precision/recall on test set: 89.25%/83.00%
+
 Fold 3:
 Number of unigrams features:14375 
 Number of unigram pos features: 48380
 Number of adjective features: 0
 Number of bigram features: 14375
 Number of top unigram features: 0
+
+Accuracy on test set: 83.50% (167 correct, 33 incorrect, 200 total)
+Precision/recall on test set: 86.81%/79.00%
 
 Fold 4:
 Number of unigrams features:14431 
@@ -29,12 +35,18 @@ Number of adjective features: 0
 Number of bigram features: 14431
 Number of top unigram features: 0
 
+Accuracy on test set: 85.00% (170 correct, 30 incorrect, 200 total)
+Precision/recall on test set: 83.02%/88.00%
+
 Fold 5:
 Number of unigrams features:14333 
 Number of unigram pos features: 48528
 Number of adjective features: 0
 Number of bigram features: 14333
 Number of top unigram features: 0
+
+Accuracy on test set: 84.00% (168 correct, 32 incorrect, 200 total)
+Precision/recall on test set: 84.00%/84.00%
 
 Fold 6:
 Number of unigrams features:14247 
@@ -43,12 +55,18 @@ Number of adjective features: 0
 Number of bigram features: 14247
 Number of top unigram features: 0
 
+Accuracy on test set: 86.00% (172 correct, 28 incorrect, 200 total)
+Precision/recall on test set: 88.30%/83.00%
+
 Fold 7
 Number of unigrams features:14268 
 Number of unigram pos features: 48101
 Number of adjective features: 0
 Number of bigram features: 14268
 Number of top unigram features: 0
+
+Accuracy on test set: 89.00% (178 correct, 22 incorrect, 200 total)
+Precision/recall on test set: 89.00%/89.00%
 
 Fold 8:
 Number of unigrams features:14286 
@@ -57,6 +75,9 @@ Number of adjective features: 0
 Number of bigram features: 14286
 Number of top unigram features: 0
 
+Accuracy on test set: 88.00% (176 correct, 24 incorrect, 200 total)
+Precision/recall on test set: 86.54%/90.00%
+
 Fold 9:
 Number of unigrams features:14379 
 Number of unigram pos features: 48439
@@ -64,12 +85,21 @@ Number of adjective features: 0
 Number of bigram features: 14379
 Number of top unigram features: 0
 
+Accuracy on test set: 82.50% (165 correct, 35 incorrect, 200 total)
+Precision/recall on test set: 84.95%/79.00%
+
 Fold 10:
 Number of unigrams features:14335 
 Number of unigram pos features: 48228
 Number of adjective features: 0
 Number of bigram features: 14335
 Number of top unigram features: 0
+
+Accuracy on test set: 89.00% (178 correct, 22 incorrect, 200 total)
+Precision/recall on test set: 92.39%/85.00%
+
+
+Average Accurary: 85.9%
 
 ----------------------
 Feature sets:
