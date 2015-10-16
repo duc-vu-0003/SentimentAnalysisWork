@@ -16,10 +16,9 @@ Follow options from 1
 Step by step:
 1. Extract Feature of training set and test set
 
-Convert the topics into just a list of the top 100 words in each topic.
-
 Support Vector Machine Tool:
 SVM Light
 
-./svm_learn ./train/feature_pos learn_model
-./svm_classify  ./test/feature_pos learn_model predictions
+We write a script to run this tool easier
+
+./doTest.sh
