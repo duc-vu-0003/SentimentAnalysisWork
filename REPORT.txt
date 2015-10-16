@@ -1,114 +1,186 @@
 Fold 1:
 Number of unigrams features:14358 
-Number of unigram pos features: 48311
-Number of adjective features: 0
 Number of bigram features: 14358
-Number of top unigram features: 0
-
-Accuracy on test set: 85.50% (171 correct, 29 incorrect, 200 total)
-Precision/recall on test set: 88.17%/82.00%
+Number of top unigram features: 7179
 
 Fold 2:
 Number of unigrams features:14385 
-Number of unigram pos features: 48502
-Number of adjective features: 0
 Number of bigram features: 14385
-Number of top unigram features: 0
-
-Accuracy on test set: 86.50% (173 correct, 27 incorrect, 200 total)
-Precision/recall on test set: 89.25%/83.00%
+Number of top unigram features: 7192
 
 Fold 3:
 Number of unigrams features:14375 
-Number of unigram pos features: 48380
-Number of adjective features: 0
 Number of bigram features: 14375
-Number of top unigram features: 0
-
-Accuracy on test set: 83.50% (167 correct, 33 incorrect, 200 total)
-Precision/recall on test set: 86.81%/79.00%
+Number of top unigram features: 7187
 
 Fold 4:
 Number of unigrams features:14431 
-Number of unigram pos features: 48684
-Number of adjective features: 0
 Number of bigram features: 14431
-Number of top unigram features: 0
-
-Accuracy on test set: 85.00% (170 correct, 30 incorrect, 200 total)
-Precision/recall on test set: 83.02%/88.00%
+Number of top unigram features: 7215
 
 Fold 5:
 Number of unigrams features:14333 
-Number of unigram pos features: 48528
-Number of adjective features: 0
 Number of bigram features: 14333
-Number of top unigram features: 0
-
-Accuracy on test set: 84.00% (168 correct, 32 incorrect, 200 total)
-Precision/recall on test set: 84.00%/84.00%
+Number of top unigram features: 7166
 
 Fold 6:
 Number of unigrams features:14247 
-Number of unigram pos features: 48247
-Number of adjective features: 0
 Number of bigram features: 14247
-Number of top unigram features: 0
-
-Accuracy on test set: 86.00% (172 correct, 28 incorrect, 200 total)
-Precision/recall on test set: 88.30%/83.00%
+Number of top unigram features: 7123
 
 Fold 7
 Number of unigrams features:14268 
-Number of unigram pos features: 48101
-Number of adjective features: 0
 Number of bigram features: 14268
-Number of top unigram features: 0
-
-Accuracy on test set: 89.00% (178 correct, 22 incorrect, 200 total)
-Precision/recall on test set: 89.00%/89.00%
+Number of top unigram features: 7134
 
 Fold 8:
 Number of unigrams features:14286 
-Number of unigram pos features: 48208
-Number of adjective features: 0
 Number of bigram features: 14286
-Number of top unigram features: 0
-
-Accuracy on test set: 88.00% (176 correct, 24 incorrect, 200 total)
-Precision/recall on test set: 86.54%/90.00%
+Number of top unigram features: 7143
 
 Fold 9:
 Number of unigrams features:14379 
-Number of unigram pos features: 48439
-Number of adjective features: 0
 Number of bigram features: 14379
-Number of top unigram features: 0
-
-Accuracy on test set: 82.50% (165 correct, 35 incorrect, 200 total)
-Precision/recall on test set: 84.95%/79.00%
+Number of top unigram features: 7189
 
 Fold 10:
 Number of unigrams features:14335 
-Number of unigram pos features: 48228
-Number of adjective features: 0
 Number of bigram features: 14335
-Number of top unigram features: 0
+Number of top unigram features: 7167
 
-Accuracy on test set: 89.00% (178 correct, 22 incorrect, 200 total)
-Precision/recall on test set: 92.39%/85.00%
+----------------------
+
+Fold 1: Feature Unigram
+            Accuracy on test set: 85.50% (171 correct, 29 incorrect, 200 total)
+            Precision/recall on test set: 88.17%/82.00%
+        
+        Feature Bigram
+            Accuracy on test set: 80.50% (161 correct, 39 incorrect, 200 total)
+            Precision/recall on test set: 83.52%/76.00%
+        
+        Feature Top Unigram
+            Accuracy on test set: 86.00% (172 correct, 28 incorrect, 200 total)
+            Precision/recall on test set: 88.30%/83.00%
+
+Fold 2: Feature Unigram
+            Accuracy on test set: 86.50% (173 correct, 27 incorrect, 200 total)
+            Precision/recall on test set: 89.25%/83.00%
+        
+        Feature Bigram
+            Accuracy on test set: 84.00% (168 correct, 32 incorrect, 200 total)
+            Precision/recall on test set: 85.42%/82.00%
+        
+        Feature Top Unigram
+            Accuracy on test set: 86.50% (173 correct, 27 incorrect, 200 total)
+            Precision/recall on test set: 89.25%/83.00%
 
 
-Average Accurary: 85.9%
+Fold 3: Feature Unigram
+            Accuracy on test set: 83.50% (167 correct, 33 incorrect, 200 total)
+            Precision/recall on test set: 86.81%/79.00%
+        
+        Feature Bigram
+            Accuracy on test set: 80.00% (160 correct, 40 incorrect, 200 total)
+            Precision/recall on test set: 88.46%/69.00%
+        
+        Feature Top Unigram
+            Accuracy on test set: 84.00% (168 correct, 32 incorrect, 200 total)
+            Precision/recall on test set: 86.96%/80.00%
 
+Fold 4: Feature Unigram
+            Accuracy on test set: 85.00% (170 correct, 30 incorrect, 200 total)
+            Precision/recall on test set: 83.02%/88.00%
+        
+        Feature Bigram
+            Accuracy on test set: 80.50% (161 correct, 39 incorrect, 200 total)
+            Precision/recall on test set: 81.44%/79.00%
+        
+        Feature Top Unigram
+            Accuracy on test set: 84.00% (168 correct, 32 incorrect, 200 total)
+            Precision/recall on test set: 82.69%/86.00%
+
+Fold 5: Feature Unigram
+            Accuracy on test set: 84.00% (168 correct, 32 incorrect, 200 total)
+            Precision/recall on test set: 84.00%/84.00%
+        
+        Feature Bigram
+            Accuracy on test set: 77.50% (155 correct, 45 incorrect, 200 total)
+            Precision/recall on test set: 79.57%/74.00%
+        
+        Feature Top Unigram
+            Accuracy on test set: 84.50% (169 correct, 31 incorrect, 200 total)
+            Precision/recall on test set: 83.50%/86.00%
+
+Fold 6: Feature Unigram
+            Accuracy on test set: 86.00% (172 correct, 28 incorrect, 200 total)
+            Precision/recall on test set: 88.30%/83.00%
+        
+        Feature Bigram
+            Accuracy on test set: 81.00% (162 correct, 38 incorrect, 200 total)
+            Precision/recall on test set: 85.23%/75.00%
+        
+        Feature Top Unigram
+            Accuracy on test set: 85.50% (171 correct, 29 incorrect, 200 total)
+            Precision/recall on test set: 87.37%/83.00%
+
+Fold 7: Feature Unigram
+            Accuracy on test set: 89.00% (178 correct, 22 incorrect, 200 total)
+            Precision/recall on test set: 89.00%/89.00%
+        
+        Feature Bigram
+            Accuracy on test set: 80.50% (161 correct, 39 incorrect, 200 total)
+            Precision/recall on test set: 81.44%/79.00%
+        
+        Feature Top Unigram
+            Accuracy on test set: 89.00% (178 correct, 22 incorrect, 200 total)
+            Precision/recall on test set: 89.00%/89.00%
+
+Fold 8: Feature Unigram
+            Accuracy on test set: 88.00% (176 correct, 24 incorrect, 200 total)
+            Precision/recall on test set: 86.54%/90.00%
+        
+        Feature Bigram
+            Accuracy on test set: 77.50% (155 correct, 45 incorrect, 200 total)
+            Precision/recall on test set: 78.35%/76.00%
+        
+        Feature Top Unigram
+            Accuracy on test set: 88.00% (176 correct, 24 incorrect, 200 total)
+            Precision/recall on test set: 87.25%/89.00%
+
+Fold 9: Feature Unigram
+            Accuracy on test set: 82.50% (165 correct, 35 incorrect, 200 total)
+            Precision/recall on test set: 84.95%/79.00%
+        
+        Feature Bigram
+            Accuracy on test set: 82.50% (165 correct, 35 incorrect, 200 total)
+            Precision/recall on test set: 87.36%/76.00%
+        
+        Feature Top Unigram
+            Accuracy on test set: 82.50% (165 correct, 35 incorrect, 200 total)
+            Precision/recall on test set: 84.21%/80.00%
+
+Fold 10: Feature Unigram
+            Accuracy on test set: 89.00% (178 correct, 22 incorrect, 200 total)
+            Precision/recall on test set: 92.39%/85.00%
+        
+        Feature Bigram
+            Accuracy on test set: 83.50% (167 correct, 33 incorrect, 200 total)
+            Precision/recall on test set: 83.17%/84.00%
+        
+        Feature Top Unigram
+            Accuracy on test set: 89.00% (178 correct, 22 incorrect, 200 total)
+            Precision/recall on test set: 92.39%/85.00%
+
+
+Average Accurary: 
+          Feature Unigram: 85.9%
+          Feature Bigram: 80.75%
+          Feature Top Unigram: 85.9%
 ----------------------
 Feature sets:
 - Unigrams: Unigram words of frequency greater than 5.
 - Bigrams: Bigram words of top N frequency, where N is the number of unigrams of frequency greater than 5.
-- Part of speech tags
-- Unigrams with part of speech tags
-- Adjectives
-- Top unigrams Unigram words of top M frequency, where M is the number of adjectives of frequency greater than 4.
+- Top unigrams Unigram words of top M frequency.
 
 -----------------------
 Classification model:
